@@ -73,7 +73,7 @@ The main, fiat-backed cryptocurrency of Maple.
 
 ___________________________
 
-<h5> Maple Premier. | Precious Metals Stable-Coins.
+<h4> Maple Premier. | Precious Metals Stable-Coins.
 
 Maple Gold.
 
