@@ -1,0 +1,2 @@
+# Maple
+Cryptographic Currency Redefined.
