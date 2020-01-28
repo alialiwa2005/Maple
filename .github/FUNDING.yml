@@ -9,4 +9,4 @@ community_bridge: # Replace with a single Community Bridge project-name e.g., cl
 liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
-custom: https://gitcoin.co/grants/419/project-maple-cryptographic-currency-redefined?tab=description, https://gitcoin.co/grants/418/maple-cryptographic-currency-redefined 
+custom: [https://gitcoin.co/grants/419/project-maple-cryptographic-currency-redefined?tab=description, "Maple Project | Gitcoin"] [https://gitcoin.co/grants/418/maple-cryptographic-currency-redefined, "Maple Premier | Gitcoin"] 
