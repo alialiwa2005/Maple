@@ -33,9 +33,8 @@ Project Maple is unique and useful as it consists of a main currency, "Maple," w
 The project will be possible by community supporters, donors, and developers, who will be rewarded at the project's launch.
 
 ---------------------------------------------------------
-
-
-Project Maple | Specs & Currencies.
+-----------------
+<h3> Project Maple | Specs & Currencies.
 
 
 Maple.
@@ -72,8 +71,9 @@ The main, fiat-backed cryptocurrency of Maple.
 
 - All CAD backing funds is fully insured by the Canadian Government, through Canada Deposit Insurance Corporation (CDIC).
 
+___________________________
 
-Maple Premier. | Precious Metals Stable-Coins.
+<h5> Maple Premier. | Precious Metals Stable-Coins.
 
 Maple Gold.
 
